@@ -1,7 +1,8 @@
 # HR-Dashboard
 
-![image](https://github.com/hariharen-27/HR-Dashboard-Mysql-powerbi/assets/115479250/54483750-77ca-412f-b531-3eb7af1114ce)
-![image](https://github.com/hariharen-27/HR-Dashboard-Mysql-powerbi/assets/115479250/1488101e-450b-4900-8fbd-3828bd979dff)
+![image](https://github.com/hariharen-27/HR-Dashboard/assets/115479250/6783caba-0e0d-4559-85dc-1867561a5943)
+![image](https://github.com/hariharen-27/HR-Dashboard/assets/115479250/93603287-b0ed-4c3e-bd76-4ec709a6efe9)
+
 
 This is HR Dashboard with the data from 2000 to 2020.
 The data cleaning and Analysis done using MySql Workbench 8.0. 
